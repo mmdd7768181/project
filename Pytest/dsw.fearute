@@ -1,0 +1,23 @@
+# 多场景
+
+Feature:读书屋小说网站
+
+  Scenario Outline:场景1--正常登陆
+    Given 用户名 <username> 密码 <password>
+
+    When 打开登录 http://novel.hctestedu.com/
+    And 输入用户名
+    And 输入密码
+    And 点击登录按钮
+
+    Then 页面中应包含登出链接，文字为退出
+
+
+
+    Examples:Users
+      | username    | password  |
+      | 17621166752 | cm7768181 |
+      | 17621166753 | cm7768181 |
+      | 17621166754 | cm7768181 |
+
+

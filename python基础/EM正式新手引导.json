@@ -1,0 +1,1734 @@
+{
+    "commands": [
+        {
+            "command_play_time": "2242",
+            "command_type": 0,
+            "point": "(1415,430)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "2382",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "4116",
+            "command_type": 0,
+            "point": "(938,314)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "4216",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "20523",
+            "command_type": 0,
+            "point": "(876,363)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "20616",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "21889",
+            "command_type": 0,
+            "point": "(876,363)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "22037",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "22453",
+            "command_type": 4
+        },
+        {
+            "command_play_time": "22504",
+            "command_type": 4
+        },
+        {
+            "bottombar_command_object_name": "gobackButton",
+            "command_play_time": "25276",
+            "command_type": 8
+        },
+        {
+            "action": "open",
+            "command_play_time": "25792",
+            "command_type": 7,
+            "task_name": "文明霸业"
+        },
+        {
+            "bottombar_command_object_name": "gobackButton",
+            "command_play_time": "26638",
+            "command_type": 8
+        },
+        {
+            "command_play_time": "26687",
+            "command_type": 4
+        },
+        {
+            "action": "open",
+            "command_play_time": "26728",
+            "command_type": 7,
+            "task_name": "文明霸业"
+        },
+        {
+            "command_play_time": "26747",
+            "command_type": 4
+        },
+        {
+            "command_play_time": "26793",
+            "command_type": 4
+        },
+        {
+            "command_play_time": "26808",
+            "command_type": 4
+        },
+        {
+            "command_play_time": "28449",
+            "command_type": 0,
+            "point": "(850,298)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "28555",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "31290",
+            "command_type": 0,
+            "point": "(71,57)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "31405",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "33481",
+            "command_type": 0,
+            "point": "(1376,822)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "33585",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "35187",
+            "command_type": 0,
+            "point": "(1540,401)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "35275",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "36969",
+            "command_type": 0,
+            "point": "(829,378)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "37044",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "37777",
+            "command_type": 0,
+            "point": "(831,378)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "37859",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "40096",
+            "command_type": 0,
+            "point": "(60,823)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "40207",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "41390",
+            "command_type": 0,
+            "point": "(1061,612)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "41490",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "43047",
+            "command_type": 0,
+            "point": "(831,397)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "43152",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "43926",
+            "command_type": 0,
+            "point": "(855,431)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "44032",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "44903",
+            "command_type": 0,
+            "point": "(870,433)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "44988",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "45575",
+            "command_type": 0,
+            "point": "(801,440)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "45673",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "46548",
+            "command_type": 0,
+            "point": "(61,811)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "46632",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "47862",
+            "command_type": 0,
+            "point": "(866,413)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "47964",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "48713",
+            "command_type": 0,
+            "point": "(866,413)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "48806",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "50553",
+            "command_type": 0,
+            "point": "(815,435)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "50636",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "52809",
+            "command_type": 0,
+            "point": "(887,307)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "52899",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "54502",
+            "command_type": 0,
+            "point": "(75,74)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "54607",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "56039",
+            "command_type": 0,
+            "point": "(824,350)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "56137",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "56606",
+            "command_type": 0,
+            "point": "(824,350)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "56710",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "58396",
+            "command_type": 0,
+            "point": "(787,470)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "58520",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "60041",
+            "command_type": 0,
+            "point": "(1518,249)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "60133",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "62937",
+            "command_type": 0,
+            "point": "(867,450)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "63037",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "63478",
+            "command_type": 0,
+            "point": "(867,450)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "63546",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "65651",
+            "command_type": 0,
+            "point": "(795,447)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "65736",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "66953",
+            "command_type": 0,
+            "point": "(1521,250)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "67042",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "69750",
+            "command_type": 0,
+            "point": "(863,450)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "69811",
+            "command_type": 0,
+            "point": "(864,450)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "69812",
+            "command_type": 0,
+            "point": "(865,449)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "69846",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "70103",
+            "command_type": 0,
+            "point": "(865,449)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "70195",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "71713",
+            "command_type": 0,
+            "point": "(648,318)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "71825",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "73337",
+            "command_type": 0,
+            "point": "(429,670)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "73441",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "74634",
+            "command_type": 0,
+            "point": "(1483,248)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "74703",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "76553",
+            "command_type": 0,
+            "point": "(871,495)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "76554",
+            "command_type": 0,
+            "point": "(871,497)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "76563",
+            "command_type": 0,
+            "point": "(870,497)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "76645",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "76770",
+            "command_type": 0,
+            "point": "(870,497)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "76835",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "78481",
+            "command_type": 0,
+            "point": "(1510,99)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "78576",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "82970",
+            "command_type": 0,
+            "point": "(775,465)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "83052",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "84749",
+            "command_type": 0,
+            "point": "(988,466)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "84860",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "86317",
+            "command_type": 0,
+            "point": "(988,466)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "86359",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "86545",
+            "command_type": 0,
+            "point": "(854,558)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "86644",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "87970",
+            "command_type": 0,
+            "point": "(401,742)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "88052",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "89547",
+            "command_type": 0,
+            "point": "(918,197)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "89613",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "91300",
+            "command_type": 0,
+            "point": "(1545,238)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "91385",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "102849",
+            "command_type": 0,
+            "point": "(823,382)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "102942",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "103025",
+            "command_type": 0,
+            "point": "(823,382)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "103086",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "104626",
+            "command_type": 0,
+            "point": "(1534,74)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "104708",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "108675",
+            "command_type": 0,
+            "point": "(850,302)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "108756",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "108856",
+            "command_type": 0,
+            "point": "(850,302)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "108911",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "110401",
+            "command_type": 0,
+            "point": "(425,818)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "110495",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "111703",
+            "command_type": 0,
+            "point": "(509,136)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "111791",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "112983",
+            "command_type": 0,
+            "point": "(860,481)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "113052",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "113124",
+            "command_type": 0,
+            "point": "(860,481)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "113199",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "114770",
+            "command_type": 0,
+            "point": "(813,422)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "114842",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "114985",
+            "command_type": 0,
+            "point": "(813,422)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "115054",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "116070",
+            "command_type": 0,
+            "point": "(834,516)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "116150",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "116443",
+            "command_type": 0,
+            "point": "(834,516)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "116560",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "117307",
+            "command_type": 0,
+            "point": "(834,435)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "117398",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "117504",
+            "command_type": 0,
+            "point": "(834,435)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "117585",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "119998",
+            "command_type": 0,
+            "point": "(693,477)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "120090",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "121507",
+            "command_type": 0,
+            "point": "(716,734)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "121626",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "122961",
+            "command_type": 0,
+            "point": "(1535,612)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "123065",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "124959",
+            "command_type": 0,
+            "point": "(928,397)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "125032",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "125131",
+            "command_type": 0,
+            "point": "(928,397)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "125203",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "126602",
+            "command_type": 0,
+            "point": "(774,444)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "126734",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "128089",
+            "command_type": 0,
+            "point": "(1522,260)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "128163",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "130727",
+            "command_type": 0,
+            "point": "(859,420)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "130812",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "130904",
+            "command_type": 0,
+            "point": "(859,420)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "130982",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "132817",
+            "command_type": 0,
+            "point": "(651,449)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "132918",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "134192",
+            "command_type": 0,
+            "point": "(467,670)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "134307",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "135803",
+            "command_type": 0,
+            "point": "(794,401)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "135886",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "135976",
+            "command_type": 0,
+            "point": "(794,401)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "136043",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "137208",
+            "command_type": 0,
+            "point": "(578,445)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "137291",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "138473",
+            "command_type": 0,
+            "point": "(1147,249)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "138556",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "139809",
+            "command_type": 0,
+            "point": "(1072,273)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "139917",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "141031",
+            "command_type": 0,
+            "point": "(1529,264)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "141134",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "143080",
+            "command_type": 0,
+            "point": "(871,333)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "143183",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "143362",
+            "command_type": 0,
+            "point": "(871,333)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "143453",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "145089",
+            "command_type": 0,
+            "point": "(847,319)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "145163",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "145254",
+            "command_type": 0,
+            "point": "(847,319)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "145345",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "147385",
+            "command_type": 0,
+            "point": "(70,79)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "147466",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "148646",
+            "command_type": 0,
+            "point": "(808,481)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "148761",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "148830",
+            "command_type": 0,
+            "point": "(808,481)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "148911",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "150207",
+            "command_type": 0,
+            "point": "(270,816)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "150309",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "151371",
+            "command_type": 0,
+            "point": "(805,130)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "151448",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "152578",
+            "command_type": 0,
+            "point": "(961,433)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "152663",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "154914",
+            "command_type": 0,
+            "point": "(880,393)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "154995",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "155104",
+            "command_type": 0,
+            "point": "(880,393)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "155156",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "156149",
+            "command_type": 0,
+            "point": "(880,393)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "156231",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "156333",
+            "command_type": 0,
+            "point": "(880,393)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "156406",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "158545",
+            "command_type": 0,
+            "point": "(1393,804)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "158640",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "160199",
+            "command_type": 0,
+            "point": "(1535,442)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "160287",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "162410",
+            "command_type": 0,
+            "point": "(877,420)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "162484",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "162573",
+            "command_type": 0,
+            "point": "(877,420)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "162642",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "164522",
+            "command_type": 0,
+            "point": "(52,828)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "164609",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "166064",
+            "command_type": 0,
+            "point": "(35,846)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "166158",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "169153",
+            "command_type": 0,
+            "point": "(429,822)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "169247",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "170443",
+            "command_type": 0,
+            "point": "(512,188)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "170530",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "172389",
+            "command_type": 0,
+            "point": "(513,137)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "172518",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "175595",
+            "command_type": 0,
+            "point": "(688,415)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "175696",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "177586",
+            "command_type": 0,
+            "point": "(839,605)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "177678",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "179063",
+            "command_type": 0,
+            "point": "(1524,599)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "179115",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "181940",
+            "command_type": 0,
+            "point": "(1206,147)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "182056",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "183776",
+            "command_type": 0,
+            "point": "(1526,276)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "183857",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "185670",
+            "command_type": 0,
+            "point": "(1526,276)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "185765",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "187393",
+            "command_type": 0,
+            "point": "(1526,276)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "187534",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "190111",
+            "command_type": 0,
+            "point": "(1540,442)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "190264",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "192019",
+            "command_type": 0,
+            "point": "(871,414)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "192115",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "192235",
+            "command_type": 0,
+            "point": "(871,414)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "192322",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "194631",
+            "command_type": 0,
+            "point": "(75,90)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "194719",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "196585",
+            "command_type": 0,
+            "point": "(1098,94)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "196673",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "198063",
+            "command_type": 0,
+            "point": "(727,688)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "198179",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "199538",
+            "command_type": 0,
+            "point": "(552,726)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "199651",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "200933",
+            "command_type": 0,
+            "point": "(996,195)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "201035",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "202894",
+            "command_type": 0,
+            "point": "(1360,451)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "202981",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "204730",
+            "command_type": 0,
+            "point": "(88,818)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "204734",
+            "command_type": 0,
+            "point": "(87,818)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "204814",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "206442",
+            "command_type": 0,
+            "point": "(840,298)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "206508",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "206626",
+            "command_type": 0,
+            "point": "(840,298)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "206675",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "208283",
+            "command_type": 0,
+            "point": "(1358,632)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "208370",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "209640",
+            "command_type": 0,
+            "point": "(1519,442)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "209701",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "210846",
+            "command_type": 0,
+            "point": "(791,457)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "210925",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "211022",
+            "command_type": 0,
+            "point": "(791,457)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "211074",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "212420",
+            "command_type": 0,
+            "point": "(48,855)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "212499",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "213836",
+            "command_type": 0,
+            "point": "(36,829)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "213937",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "217273",
+            "command_type": 0,
+            "point": "(1292,444)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "217412",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "221182",
+            "command_type": 0,
+            "point": "(313,151)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "221543",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "223255",
+            "command_type": 0,
+            "point": "(414,820)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "223370",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "225709",
+            "command_type": 0,
+            "point": "(1364,450)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "225839",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "227780",
+            "command_type": 0,
+            "point": "(1364,450)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "227876",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "233466",
+            "command_type": 0,
+            "point": "(504,180)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "233581",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "236144",
+            "command_type": 0,
+            "point": "(808,438)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "236252",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "237769",
+            "command_type": 0,
+            "point": "(1375,459)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "237834",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "238584",
+            "command_type": 0,
+            "point": "(896,382)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "238673",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "240788",
+            "command_type": 0,
+            "point": "(1534,617)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "240885",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "243083",
+            "command_type": 0,
+            "point": "(647,728)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "243164",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "244526",
+            "command_type": 0,
+            "point": "(1540,607)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "244633",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "247179",
+            "command_type": 0,
+            "point": "(419,802)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "247264",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "248301",
+            "command_type": 0,
+            "point": "(498,141)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "248392",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "249895",
+            "command_type": 0,
+            "point": "(513,151)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "249991",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "253269",
+            "command_type": 0,
+            "point": "(515,140)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "253370",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "255194",
+            "command_type": 0,
+            "point": "(629,382)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "255297",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "256502",
+            "command_type": 0,
+            "point": "(840,607)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "256564",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "258265",
+            "command_type": 0,
+            "point": "(1543,246)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "258346",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "260271",
+            "command_type": 0,
+            "point": "(1543,246)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "260366",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "261577",
+            "command_type": 0,
+            "point": "(1543,246)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "261674",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "262978",
+            "command_type": 0,
+            "point": "(1541,418)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "263053",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "265501",
+            "command_type": 0,
+            "point": "(1218,159)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "265594",
+            "command_type": 1,
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "268575",
+            "command_type": 0,
+            "point": "(56,829)",
+            "slot_id": 1
+        },
+        {
+            "command_play_time": "268658",
+            "command_type": 1,
+            "slot_id": 1
+        }
+    ],
+    "create_at": "1650534489497",
+    "identity": "1650534489497",
+    "priority": 0,
+    "setting": {
+        "anti_detect": false,
+        "is_restart": false,
+        "name": "EM正式新手引导",
+        "play_count": 1,
+        "play_interval": 0,
+        "play_on_start": false,
+        "play_speed": 1,
+        "play_time": 0,
+        "play_type": "count",
+        "restart_play_time": 60
+    }
+}
